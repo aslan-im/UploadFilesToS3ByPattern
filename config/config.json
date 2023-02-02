@@ -1,0 +1,10 @@
+{
+    "main":{
+        "filePrefixes": [
+            "<Prefix 1>",
+            "<Prefix 2>"
+        ],
+        "drivePath": "C:\\files <Path to directory to check>",
+        "S3BucketName": "<Name of S3 bucket>"
+    }
+}
